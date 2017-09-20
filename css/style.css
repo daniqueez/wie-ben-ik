@@ -1,0 +1,76 @@
+body {
+    background-image: url("grfx/space.jpg");
+    
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    font-family: arial;
+    font-size: 25px;
+}
+
+p {
+    font-family: arial;
+    font-size: 20px;
+    color: white;
+    text-align: center;
+
+}
+
+section.gegevens{
+	height: auto;
+	width: 40%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+h2.mezelf{
+	text-align: center;
+	font-family: arial
+}
+
+h2 {
+	color: white;
+}
+
+section.mezelf{
+	margin-left: 472px;
+	width: 400px;
+}
+
+h3.doel{
+	text-align: center;
+	font-family: arial;
+	color: white;
+	font-size: 25px;
+}
+
+section.doelen{
+	margin-left: 472px;
+	width: 400px;
+}
+
+h4.kennis{
+	text-align: center;
+	font-family: arial;
+	color: white;
+	font-size: 25px;
+}
+
+section.vaardigheden{
+	margin-left: 472px;
+	width: 400px;
+}
+
+h5.studie{
+	text-align: center;
+	font-family: arial;
+	color: white;
+	font-size: 25px;
+}
+
+section.studies{
+	margin-left: 472px;
+	width: 400px;
+}
